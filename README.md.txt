@@ -1,1 +1,0 @@
-This is my first front end project! I hope you enjoy :)
