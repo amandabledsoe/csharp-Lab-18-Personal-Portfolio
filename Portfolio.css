@@ -1,0 +1,73 @@
+.button {
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#link {
+    color: black;
+}
+#link:hover {
+    color: gold;
+}
+header{
+    background-color: gray;
+    height: 40px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    font-family: Verdana;
+    padding: 5px;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    border-color: lightgray;
+}
+body {
+    background-color:lightsteelblue;
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 18pt;
+}
+table {
+    border-collapse: collapse;
+    width: 70%;
+    margin: auto;
+}
+th {
+    border: solid black thin;
+    background-color:gray;
+    border-top: yellow;
+    border-bottom: yellow;
+    border-left: none;
+    border-right:none;
+}
+td {
+    border: solid black thin;
+    background-color: lightgoldenrodyellow;
+    border-top: gray;
+    border-bottom: gray;
+    border-left: none;
+    border-right:none;
+}
+caption {
+    font-family: monospace;
+}
+footer{
+    text-decoration-color: gold;
+    background-color: gray;
+    height: 40px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    font-family: fantasy;
+    padding: 10px;
+}
